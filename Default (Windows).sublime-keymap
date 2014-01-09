@@ -1,0 +1,9 @@
+[
+	{ "keys": ["ctrl+shift+;"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"} },
+	{"keys": ["ctrl+;"],"command": "run_macro_file","args": {"file": "Packages/User/endsemicolon.sublime-macro"}
+	},
+	{"keys": ["ctrl+shift+'"],"command": "run_macro_file","args": {"file": "Packages/User/quotes.sublime-macro"}
+	},
+	{"keys": ["ctrl+'"],"command": "run_macro_file","args": {"file": "Packages/User/simplequotes.sublime-macro"}
+	},
+]

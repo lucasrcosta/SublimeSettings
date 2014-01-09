@@ -1,0 +1,25 @@
+{
+	"installed_packages":
+	[
+		"CodeFormatter",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Gitignore",
+		"Goto Documentation",
+		"LiveStyle",
+		"PHP Companion",
+		"Phpcs",
+		"Sass",
+		"SCSS",
+		"SCSS Snippets",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"SyncedSideBar",
+		"Theme - Phoenix",
+		"Theme - Spacegray"
+	]
+}

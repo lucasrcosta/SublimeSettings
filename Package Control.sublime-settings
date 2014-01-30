@@ -2,12 +2,14 @@
 	"installed_packages":
 	[
 		"CodeFormatter",
+		"CSScomb",
 		"CTags",
 		"DocBlockr",
 		"Emmet",
 		"Git",
 		"Gitignore",
 		"Goto Documentation",
+		"Handlebars",
 		"LiveStyle",
 		"PHP Companion",
 		"Phpcs",

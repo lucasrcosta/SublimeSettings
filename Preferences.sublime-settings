@@ -1,14 +1,23 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/User/material-dark (Flake8Lint).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"phoenix_color_blue": true,
-	"phoenix_dirty_bottom_bar": true,
-	"phoenix_dirty_bottom_bar_red": true,
-	"phoenix_solid_current_tab": true,
-	"theme": "Phoenix Dark.sublime-theme",
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"/Users/lucas/Projects/facebook-php-ads-sdk*",
+		"/Users/lucas/Vagrants/tamboreen/www*"
+	],
+	"show_full_path": true,
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"word_wrap": true
 }

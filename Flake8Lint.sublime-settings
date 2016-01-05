@@ -1,0 +1,16 @@
+{
+
+	// run lint in live mode: lint file (without popup) every XXX ms
+	// please, be careful: this may cause performance issues on ST2
+	"live_mode": true,
+	// set live mode lint delay, in milliseconds
+	"live_mode_lint_delay": 5000,
+
+	// set ruler guide based on max line length setting
+	"set_ruler_guide": false,
+
+	// popup a dialog of detected conditions?
+	"popup": false,
+	// highlight detected conditions?
+	"highlight": true,
+}

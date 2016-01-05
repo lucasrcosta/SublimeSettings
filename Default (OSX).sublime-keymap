@@ -1,0 +1,6 @@
+[
+	{"keys": ["super+;"],"command": "run_macro_file","args": {"file": "Packages/User/endsemicolon.sublime-macro"}
+	},
+	{ "keys": ["super+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+	{"keys": ["super+shift+c"], "command": "consolewrap"}
+]

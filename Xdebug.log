@@ -1,0 +1,10 @@
+[07/01/2015 01:18:18AM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[07/01/2015 01:18:20AM] INFO - Failed to open /Users/lucas/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
+[07/01/2015 01:18:20AM] INFO - Failed to parse /Users/lucas/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
+[07/01/2015 11:17:57PM] WARNING - Could not import subprocess32 module, falling back to subprocess module
+[07/01/2015 11:17:58PM] WARNING - Python Syntax Error in '<Unsaved>': invalid syntax (<unknown>, line 1)
+[07/01/2015 11:18:07PM] INFO - eval 'me' at <Unsaved>#1  <Trigger 'python-complete-local-symbols' at 0>
+[07/01/2015 11:18:07PM] INFO - start scope is (<Element 'scope' at 0x115197488>, [])
+[07/01/2015 11:18:07PM] INFO -     cplns: []
+[07/01/2015 11:18:07PM] INFO - done eval: success
+[07/01/2015 11:18:08PM] WARNING - Python Syntax Error in '<Unsaved>': invalid syntax (<unknown>, line 1)

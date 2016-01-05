@@ -1,0 +1,16 @@
+{
+    "jshint_options": {
+        "bitwise": true,
+        "browser": true,
+        "camelcase": true,
+        "esnext": true,
+        "immed": true,
+        "indent": 2,
+        "latedef": "nofunc",
+        "maxparams": 4,
+        "newcap": true,
+        "noarg": true,
+        "strict": true,
+        "unused": true
+    }
+}

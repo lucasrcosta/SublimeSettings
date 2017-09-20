@@ -13,4 +13,8 @@
 	"popup": false,
 	// highlight detected conditions?
 	"highlight": true,
+	// turn on pydocstyle error lint
+	"pydocstyle": false,
+	"pep8_max_line_length": 89,
+	"python_interpreter": "/Users/lucas/.pyenv/shims/python"
 }

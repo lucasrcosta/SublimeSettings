@@ -515,6 +515,16 @@
             </dict>
         </dict><dict>
             <key>name</key>
+            <string>Python Flake8 Lint Warning</string>
+            <key>scope</key>
+            <string>flake8lint.mark.warning</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#EDBA00</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
             <string>Python Flake8 Lint Error</string>
             <key>scope</key>
             <string>flake8lint.mark.error</string>
@@ -535,13 +545,13 @@
             </dict>
         </dict><dict>
             <key>name</key>
-            <string>Python Flake8 Lint Warning</string>
+            <string>SublimeLinter Warning</string>
             <key>scope</key>
-            <string>flake8lint.mark.warning</string>
+            <string>sublimelinter.mark.warning</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#EDBA00</string>
+                <string>#DDB700</string>
             </dict>
         </dict><dict>
             <key>name</key>
@@ -562,16 +572,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#D02000</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
-            <string>SublimeLinter Warning</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.warning</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#DDB700</string>
             </dict>
         </dict></array>
 	<key>uuid</key>

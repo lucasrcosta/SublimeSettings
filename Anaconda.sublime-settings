@@ -74,7 +74,7 @@
 
         This can (and should) be overridden by project settings
     */
-    "python_interpreter": "python",
+    "python_interpreter": "/Users/lucas/.pyenv/shims/python",
 
     /*
         Set those as true if you don't want Sublime Text regular completions

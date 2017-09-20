@@ -1,10 +1,52 @@
 {
+	"anaconda_linting": false,
+	"auto_complete_commit_on_tab": true,
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		".requirements/**",
+		"/Users/lucas/.virtualenvs/sugarcane/lib/python2.7/site-packages/facebookads/test/**",
+		"/Users/lucas/Workspace/crystal/node_modules/**",
+		"node_modules/**",
+		"test/**"
+	],
 	"color_scheme": "Packages/User/material-dark (Flake8Lint).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 12,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".meteor",
+		".requirements"
+	],
+	"font_face": "Hack",
+	"font_size": 14,
 	"ignored_packages":
 	[
-		"Vintage"
+		"ActionScript",
+		"Arduino-like IDE",
+		"Behat",
+		"C#",
+		"C++",
+		"Kite",
+		"Python Improved",
+		"Vintage",
+		"Virtualenv",
+		"Xdebug Client"
 	],
 	"indent_guide_options":
 	[
@@ -14,9 +56,16 @@
 	"index_exclude_patterns":
 	[
 		"*.log",
-		"/Users/lucas/Projects/facebook-php-ads-sdk*",
-		"/Users/lucas/Vagrants/tamboreen/www*"
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		".meteor"
 	],
+	"line_padding_bottom": -3,
+	"mdpopups.use_sublime_highlighter": true,
+	"show_definitions": true,
 	"show_full_path": true,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"word_wrap": true
